@@ -12,3 +12,5 @@ Add glew-2.1.0 to the main directory
 * **1 - 7** - Switch between different demo rooms
 * **Alt + Enter** - Toggle Fullscreen
 * **Esc** - Exit demo
+
+This is a copy of the original repository for testing purposes
